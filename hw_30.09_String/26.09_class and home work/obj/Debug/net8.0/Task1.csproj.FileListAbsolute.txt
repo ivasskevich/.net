@@ -1,0 +1,14 @@
+C:\Users\Макс\Desktop\26.09_class and home work\26.09_class and home work\bin\Debug\net8.0\Task1.exe
+C:\Users\Макс\Desktop\26.09_class and home work\26.09_class and home work\bin\Debug\net8.0\Task1.deps.json
+C:\Users\Макс\Desktop\26.09_class and home work\26.09_class and home work\bin\Debug\net8.0\Task1.runtimeconfig.json
+C:\Users\Макс\Desktop\26.09_class and home work\26.09_class and home work\bin\Debug\net8.0\Task1.dll
+C:\Users\Макс\Desktop\26.09_class and home work\26.09_class and home work\bin\Debug\net8.0\Task1.pdb
+C:\Users\Макс\Desktop\26.09_class and home work\26.09_class and home work\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Макс\Desktop\26.09_class and home work\26.09_class and home work\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+C:\Users\Макс\Desktop\26.09_class and home work\26.09_class and home work\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+C:\Users\Макс\Desktop\26.09_class and home work\26.09_class and home work\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Макс\Desktop\26.09_class and home work\26.09_class and home work\obj\Debug\net8.0\Task1.dll
+C:\Users\Макс\Desktop\26.09_class and home work\26.09_class and home work\obj\Debug\net8.0\refint\Task1.dll
+C:\Users\Макс\Desktop\26.09_class and home work\26.09_class and home work\obj\Debug\net8.0\Task1.pdb
+C:\Users\Макс\Desktop\26.09_class and home work\26.09_class and home work\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+C:\Users\Макс\Desktop\26.09_class and home work\26.09_class and home work\obj\Debug\net8.0\ref\Task1.dll

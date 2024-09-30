@@ -1,0 +1,14 @@
+D:\Особисте\ШАГ\3-курс_програмування\Microsoft .NET\Home-Work\26.09_class and home work\26.09_class and home work\bin\Debug\net8.0\26.09_class and home work.exe
+D:\Особисте\ШАГ\3-курс_програмування\Microsoft .NET\Home-Work\26.09_class and home work\26.09_class and home work\bin\Debug\net8.0\26.09_class and home work.deps.json
+D:\Особисте\ШАГ\3-курс_програмування\Microsoft .NET\Home-Work\26.09_class and home work\26.09_class and home work\bin\Debug\net8.0\26.09_class and home work.runtimeconfig.json
+D:\Особисте\ШАГ\3-курс_програмування\Microsoft .NET\Home-Work\26.09_class and home work\26.09_class and home work\bin\Debug\net8.0\26.09_class and home work.dll
+D:\Особисте\ШАГ\3-курс_програмування\Microsoft .NET\Home-Work\26.09_class and home work\26.09_class and home work\bin\Debug\net8.0\26.09_class and home work.pdb
+D:\Особисте\ШАГ\3-курс_програмування\Microsoft .NET\Home-Work\26.09_class and home work\26.09_class and home work\obj\Debug\net8.0\26.09_class and home work.GeneratedMSBuildEditorConfig.editorconfig
+D:\Особисте\ШАГ\3-курс_програмування\Microsoft .NET\Home-Work\26.09_class and home work\26.09_class and home work\obj\Debug\net8.0\26.09_class and home work.AssemblyInfoInputs.cache
+D:\Особисте\ШАГ\3-курс_програмування\Microsoft .NET\Home-Work\26.09_class and home work\26.09_class and home work\obj\Debug\net8.0\26.09_class and home work.AssemblyInfo.cs
+D:\Особисте\ШАГ\3-курс_програмування\Microsoft .NET\Home-Work\26.09_class and home work\26.09_class and home work\obj\Debug\net8.0\26.09_class and home work.csproj.CoreCompileInputs.cache
+D:\Особисте\ШАГ\3-курс_програмування\Microsoft .NET\Home-Work\26.09_class and home work\26.09_class and home work\obj\Debug\net8.0\26.09_class and home work.dll
+D:\Особисте\ШАГ\3-курс_програмування\Microsoft .NET\Home-Work\26.09_class and home work\26.09_class and home work\obj\Debug\net8.0\refint\26.09_class and home work.dll
+D:\Особисте\ШАГ\3-курс_програмування\Microsoft .NET\Home-Work\26.09_class and home work\26.09_class and home work\obj\Debug\net8.0\26.09_class and home work.pdb
+D:\Особисте\ШАГ\3-курс_програмування\Microsoft .NET\Home-Work\26.09_class and home work\26.09_class and home work\obj\Debug\net8.0\26.09_class and home work.genruntimeconfig.cache
+D:\Особисте\ШАГ\3-курс_програмування\Microsoft .NET\Home-Work\26.09_class and home work\26.09_class and home work\obj\Debug\net8.0\ref\26.09_class and home work.dll

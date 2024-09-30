@@ -1,0 +1,28 @@
+D:\Особисте\ШАГ\3-курс_програмування\Microsoft .NET\Home-Work\26.09_class and home work\Task2\bin\Debug\net8.0\Task2.exe
+D:\Особисте\ШАГ\3-курс_програмування\Microsoft .NET\Home-Work\26.09_class and home work\Task2\bin\Debug\net8.0\Task2.deps.json
+D:\Особисте\ШАГ\3-курс_програмування\Microsoft .NET\Home-Work\26.09_class and home work\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+D:\Особисте\ШАГ\3-курс_програмування\Microsoft .NET\Home-Work\26.09_class and home work\Task2\bin\Debug\net8.0\Task2.dll
+D:\Особисте\ШАГ\3-курс_програмування\Microsoft .NET\Home-Work\26.09_class and home work\Task2\bin\Debug\net8.0\Task2.pdb
+D:\Особисте\ШАГ\3-курс_програмування\Microsoft .NET\Home-Work\26.09_class and home work\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Особисте\ШАГ\3-курс_програмування\Microsoft .NET\Home-Work\26.09_class and home work\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+D:\Особисте\ШАГ\3-курс_програмування\Microsoft .NET\Home-Work\26.09_class and home work\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+D:\Особисте\ШАГ\3-курс_програмування\Microsoft .NET\Home-Work\26.09_class and home work\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+D:\Особисте\ШАГ\3-курс_програмування\Microsoft .NET\Home-Work\26.09_class and home work\Task2\obj\Debug\net8.0\Task2.dll
+D:\Особисте\ШАГ\3-курс_програмування\Microsoft .NET\Home-Work\26.09_class and home work\Task2\obj\Debug\net8.0\refint\Task2.dll
+D:\Особисте\ШАГ\3-курс_програмування\Microsoft .NET\Home-Work\26.09_class and home work\Task2\obj\Debug\net8.0\Task2.pdb
+D:\Особисте\ШАГ\3-курс_програмування\Microsoft .NET\Home-Work\26.09_class and home work\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+D:\Особисте\ШАГ\3-курс_програмування\Microsoft .NET\Home-Work\26.09_class and home work\Task2\obj\Debug\net8.0\ref\Task2.dll
+C:\Users\Макс\Desktop\26.09_class and home work\Task2\bin\Debug\net8.0\Task2.exe
+C:\Users\Макс\Desktop\26.09_class and home work\Task2\bin\Debug\net8.0\Task2.deps.json
+C:\Users\Макс\Desktop\26.09_class and home work\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+C:\Users\Макс\Desktop\26.09_class and home work\Task2\bin\Debug\net8.0\Task2.dll
+C:\Users\Макс\Desktop\26.09_class and home work\Task2\bin\Debug\net8.0\Task2.pdb
+C:\Users\Макс\Desktop\26.09_class and home work\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Макс\Desktop\26.09_class and home work\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+C:\Users\Макс\Desktop\26.09_class and home work\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+C:\Users\Макс\Desktop\26.09_class and home work\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Макс\Desktop\26.09_class and home work\Task2\obj\Debug\net8.0\Task2.dll
+C:\Users\Макс\Desktop\26.09_class and home work\Task2\obj\Debug\net8.0\refint\Task2.dll
+C:\Users\Макс\Desktop\26.09_class and home work\Task2\obj\Debug\net8.0\Task2.pdb
+C:\Users\Макс\Desktop\26.09_class and home work\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+C:\Users\Макс\Desktop\26.09_class and home work\Task2\obj\Debug\net8.0\ref\Task2.dll
